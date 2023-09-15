@@ -1,0 +1,220 @@
+/* FIRST FIXED IMAGE PART */
+.first-fixed-image {
+    background-image: url("images/firstfixedimage.jpg");
+    height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+
+}
+
+/* FIRST COLLAGE PART */
+.left {
+    height: 300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.left img {
+    width: 100%;
+    height: 300px;
+}
+
+.right {
+    height: 300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.right img {
+    width: 100%;
+    height: 300px;
+}
+
+
+.left1 {
+    height: 300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.left1 img {
+    width: 100%;
+    height: 300px;
+}
+
+
+.right1 {
+    height: 300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.right1 img {
+    width: 100%;
+    height: 300px;
+}
+
+
+/* SECOND FIXED IMAGE PART */
+.second-fixed-image {
+    background-image: url("images/collagepic8.jpg");
+    height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+/* THIRD FIXED IMAGE PART */
+.third-fixed-image {
+    background-image: url("images/thirdfixedimage.jpg");
+    height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+/* THIRD FIXED IMAGE PART */
+.fourth-fixed-image {
+    background-image: url("images/fourthfixedimage.jpg");
+    height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+
+/* SECOND COLLAGE PART */
+.leftdiv{
+    height:300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.leftdiv img{
+    width:100%;
+    height:300px;
+}
+
+.middlediv{
+    height:300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.middlediv img{
+    width:100%;
+    height:300px;
+}
+
+.rightdiv{
+    height:300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.rightdiv img{
+    width:100%;
+    height:300px;
+}
+
+.leftdiv1{
+    height:300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.leftdiv1 img{
+    width:100%;
+    height:300px;
+}
+
+.middlediv1{
+    height:300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.middlediv1 img{
+    width:100%;
+    height:300px;
+}
+
+.rightdiv1{
+    height:300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.rightdiv1 img{
+    width:100%;
+    height:300px;
+}
+
+.leftdiv2{
+    height:300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.leftdiv2 img{
+    width:100%;
+    height:300px;
+}
+
+.middlediv2{
+    height:300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.middlediv2 img{
+    width:100%;
+    height:300px;
+}
+
+.rightdiv2{
+    height:300px;
+    margin: 5px 0px 5px 0px;
+}
+
+.rightdiv2 img{
+    width:100%;
+    height:300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* FOOTER PART */
+.footer {
+    background-color: black;
+
+}
+
+.details {
+    text-align: center;
+    color: burlywood;
+}
+
+.icons {
+    text-align: center;
+    color: blue;
+
+}
+
+.icons i {
+    margin: 10px;
+    font-size: 30px;
+}

@@ -1,0 +1,70 @@
+/* MOVEABLE & FADE PART  */
+.background-rover{
+background-image: url("images/rangerover11.jpg");
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.aqua{
+    height:200px;
+}
+
+.aqua img{
+    height:200px;
+    width:25%;
+}
+
+.green{
+    height:250px;
+    text-align: center;
+}
+
+.green img{
+    height:250px;
+    width:30%;
+}
+
+.blue{
+    height:200px;
+    text-align: right;
+}
+
+.blue img{
+    height:200px;
+    width:25%;
+}
+
+/* HISTORY PART */
+.indentation{
+    text-indent: 120px;
+}
+
+/* FIXED-IMAGE PART */
+.fixed-image {
+   background-image: url("images/rangerover10.jpg");
+   background-attachment: fixed;
+   height:300px;
+   background-size: cover;
+}
+
+/* FOOTER PART */
+.footer{
+    background-color: black;
+    
+}
+
+.details{
+    text-align: center;
+    color: burlywood;
+}
+
+.icons{
+    text-align: center;
+    color: blue;
+    
+}
+
+.icons i{
+    margin:10px;
+    font-size: 30px;
+}
